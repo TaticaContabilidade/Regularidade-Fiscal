@@ -1,0 +1,8 @@
+.idea/
+.venv/
+docs/
+
+.env.example
+CLAUDE.md
+__pycache__/
+pyproject.toml
